@@ -12,6 +12,7 @@ Gabriel
 
 
 
+
  👀 I am interested in developing websites and now I am working on a lot of projects.
  
  🌱 I’m currently learning React
