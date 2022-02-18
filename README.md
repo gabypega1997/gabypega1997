@@ -13,7 +13,7 @@ Gabriel
 
 
 
- 👀 I am interested in developing websites and now I am working on a lot of projects.
+ 👀 I am interested in developing websites and now I am working on a lot of personal projects.
  
  🌱 I’m currently learning React
 
