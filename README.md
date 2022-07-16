@@ -1,7 +1,4 @@
-<h4 align="center"><img src="https://img.icons8.com/cute-clipart/64/000000/h.png"/> 
-<img src="https://img.icons8.com/cute-clipart/64/000000/i.png"/>
- 
-</h4>
+
 
 <h1 align="center">I'm
 Gabriel
