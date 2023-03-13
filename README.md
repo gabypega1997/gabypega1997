@@ -42,13 +42,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
 <h1 align="center">Hi 👋, I'm Gabriel Pescar</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabypega1997&label=Profile%20views&color=0e75b6&style=flat" alt="gabypega1997" /> </p>
-
-- 🔭 I’m currently working on [Flo&Co-Trockenbau](https://floco-trockenbau.de/)
 
 - 🌱 I’m currently learning **React, Typescript**
 
@@ -61,6 +58,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pescar-gabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pescar-gabi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-pescar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-pescar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,3 +69,4 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabypega1997&show_icons=true&locale=en" alt="gabypega1997" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabypega1997&" alt="gabypega1997" /></p>
+
